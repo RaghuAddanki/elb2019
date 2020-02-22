@@ -1,13 +1,12 @@
+<!DOCTYPE html>
 <html>
-<title> MUMBAI </title>
+<head>
+<title>Page Title</title>
+</head>
 <body>
-<h1>
-<center>
-<IMG SRC="clogo.png" ALT="clogo"><br>
-<?php
-echo $_SERVER['SERVER_ADDR'];
-?>
-</center>
-</h1>
+
+<h1>Beanstalk vs EC2</h1>
+<p>Who wins?.</p>
+
 </body>
 </html>
